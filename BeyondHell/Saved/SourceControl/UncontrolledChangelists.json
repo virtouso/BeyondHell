@@ -157,7 +157,6 @@
 				"D:/Projects/Active/BeyondHell/BeyondHell/Content/DoomAssets/Weapons/Shotgun/ShotgunShoot.uasset",
 				"D:/Projects/Active/BeyondHell/BeyondHell/Content/DoomAssets/Weapons/Shotgun/ShotgunReload.uasset",
 				"D:/Projects/Active/BeyondHell/BeyondHell/Content/DoomGame/Component/Weapon/IPlayerWeapon.uasset",
-				"D:/Projects/Active/BeyondHell/BeyondHell/Content/DoomGame/Component/Weapon/PlayerMinigun.uasset",
 				"D:/Projects/Active/BeyondHell/BeyondHell/Content/DoomGame/Material/BasicGround.uasset",
 				"D:/Projects/Active/BeyondHell/BeyondHell/Content/DoomGame/Material/BasicWall.uasset",
 				"D:/Projects/Active/BeyondHell/BeyondHell/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
@@ -213,6 +212,10 @@
 				"D:/Projects/Active/BeyondHell/BeyondHell/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
 				"D:/Projects/Active/BeyondHell/BeyondHell/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset",
 				"D:/Projects/Active/BeyondHell/BeyondHell/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset",
+				"D:/Projects/Active/BeyondHell/BeyondHell/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"D:/Projects/Active/BeyondHell/BeyondHell/Content/FirstPerson/Input/Actions/ia_change_1.uasset",
+				"D:/Projects/Active/BeyondHell/BeyondHell/Content/DoomGame/Component/Weapon/NewControlRigBlueprint.uasset",
+				"D:/Projects/Active/BeyondHell/BeyondHell/Content/DoomGame/Component/Weapon/PlayerMinigun.uasset",
 				"D:/Projects/Active/BeyondHell/BeyondHell/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"D:/Projects/Active/BeyondHell/BeyondHell/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
 			]
