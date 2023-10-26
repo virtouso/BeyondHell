@@ -22,8 +22,7 @@ class BEYONDHELL_API AMovingLaserBeam : public AActor
 	TArray<AActor*> movingPoints;
 	UPROPERTY(EditAnywhere, Category = "Moving")
 	UBoxComponent* CollisionComponent;
-
-	void (*ActiveState)(int);
+	void ( AMovingLaserBeam::*ActiveState)(float);
 	
 public:
 	// Sets default values for this actor's properties
@@ -38,6 +37,8 @@ protected:
 public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+
 	void MovingState(float DeltaTime);
-	void DeltaTimeStaticState(float DeltaTime);
+	void StaticState(float DeltaTime);
+	//void StaticState(float DeltaTime);
 };
